@@ -15,6 +15,7 @@ target/
 .springBeans
 .sts4-cache
 .terraform
+.terraform.lock.hcl
 
 ### IntelliJ IDEA ###
 .idea
