@@ -16,12 +16,14 @@ target/
 .sts4-cache
 .terraform
 .terraform.lock.hcl
+*.terraform*
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+
 
 ### NetBeans ###
 /nbproject/private/
