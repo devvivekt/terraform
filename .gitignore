@@ -4,7 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-.tfstate
+**.tfstate**
 ###
  STS ###
 .apt_generated
